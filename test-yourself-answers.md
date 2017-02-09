@@ -922,3 +922,5 @@ here is a sure fire way to do this as a beginner since git and command line stuf
 
 #### How do you start a new project?  
 git init [name]. Then head to github and set up your repository and copy in your push origin into your project file. It seems simple, but the easier it is probably means the more times you will end up doing it as a developer since it's routine.
+
+ Contributed by Derek Ketcher
