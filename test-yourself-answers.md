@@ -912,6 +912,13 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 
 
-What is "WYSIWYG"? It is a common acronym meaning "What You See Is What You Get"
-How does one move directories? There is a sure fire way to do this as a beginner since git and command line stuff can be a bit intimidating. You can simple type cd then the folder name for example cd dfketcher then cd git_folder instead of cd /dfketcher/git_folder. Writing a really log directory to get to a folder at first can be frustrating so just going folder by folder is great practice. 
-How do you start a new project?  git init [name]. Then head to github and set up your repository and copy in your push origin into your project file. It seems simple, but the easier it is probably means the more times you will end up doing it as a developer since it's routine.
+#### What is "WYSIWYG"? 
+It is a common acronym meaning "What You See Is What You Get"
+
+
+#### How does one move directories? 
+here is a sure fire way to do this as a beginner since git and command line stuff can be a bit intimidating. You can simple type cd then the folder name for example cd dfketcher then cd git_folder instead of cd /dfketcher/git_folder. Writing a really log directory to get to a folder at first can be frustrating so just going folder by folder is great practice.
+
+
+#### How do you start a new project?  
+git init [name]. Then head to github and set up your repository and copy in your push origin into your project file. It seems simple, but the easier it is probably means the more times you will end up doing it as a developer since it's routine.
